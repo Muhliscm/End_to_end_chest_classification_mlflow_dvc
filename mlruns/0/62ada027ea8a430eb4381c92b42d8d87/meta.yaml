@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muhliscm/Desktop/data_engineering/data%20science/End_to_end_chest_classification_mlflow_dvc/mlruns/0/62ada027ea8a430eb4381c92b42d8d87/artifacts
+end_time: 1710438974534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ada027ea8a430eb4381c92b42d8d87
+run_name: overjoyed-ant-478
+run_uuid: 62ada027ea8a430eb4381c92b42d8d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710438967358
+status: 3
+tags: []
+user_id: muhliscm
